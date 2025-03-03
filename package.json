@@ -1,0 +1,41 @@
+{
+  "name": "x-gov-software",
+  "version": "1.0.0",
+  "description": "Site for UK Cross Government Cloud Community ",
+  "main": ".eleventy.js",
+  "dependencies": {
+    "@dvsa/cookie-manager": "^1.1.0",
+    "@x-govuk/govuk-eleventy-plugin": "^6.7.2",
+    "govuk-frontend": "^5.8.0",
+    "npm": "^10.5.2",
+    "sass": "^1.44.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "gulp": "^5.0.0",
+    "gulp-minify": "^3.0.0",
+    "gulp-sass": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy",
+    "build:local:docker": "docker build -t uk-xgov-cloud-community . && docker run -dp 127.0.0.1:8081:8081 uk-xgov-cloud-community"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uk-x-gov-software-community/uk-x-gov-cloud-community/about.git"
+  },
+  "keywords": [
+    "government",
+    "uk",
+    "cloud"
+  ],
+  "authors": [
+    "benjamin.bennett@digital.cabinet-office.gov.uk"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uk-x-gov-software-community/uk-x-gov-cloud-community/about/issues"
+  },
+  "homepage": "https://github.com/uk-x-gov-software-community/uk-x-gov-cloud-community/about#readme"
+}
