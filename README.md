@@ -2,7 +2,7 @@
 
 # Cross Government Cloud Community
 
-[Link to website ](https://uk-x-gov-cloud-community.github.io/)
+[Link to website ](https://uk-x-gov-cloud-community.github.io/uk-x-gov-cloud-community/)
 
 This is the website of the Cross Government Cloud Community, aiming to be a place to find information about the group and other useful resources for all in government involved with cloud computing. 
 
@@ -30,7 +30,7 @@ To develop the website you will need the following.
 
 1. Clone the repo
    ```
-   git clone git@github.com:uk-x-gov-software-community/uk-x-gov-cloud-community.github.io.git
+   git clone git@github.com:uk-x-gov-software-community/uk-x-gov-cloud-community.git
    ```
 2. Install NPM packages
    ```
@@ -75,7 +75,7 @@ This stops the container from running and releases all bound ports.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/uk-x-gov-software-community/uk-x-gov-cloud-community.github.io/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/uk-x-gov-software-community/uk-x-gov-cloud-community/issues) for a list of proposed features (and known issues).
 
 
 

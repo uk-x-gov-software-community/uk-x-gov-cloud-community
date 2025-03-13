@@ -30,10 +30,10 @@ module.exports = function(eleventyConfig) {
     
     footer: {
       contentLicence: {
-        html: 'A community project. <a class="govuk-footer__link" href="https://github.com/uk-x-gov-software-community/uk-x-gov-cloud-community.github.io">GitHub source</a>.<br /> Thanks to <a href="https://x-govuk.github.io/govuk-eleventy-plugin/" class="govuk-link" >X-GOVUK projects</a> for the template' 
+        html: 'A community project. <a class="govuk-footer__link" href="https://uk-x-gov-software-community.github.io/uk-x-gov-cloud-community/">GitHub source</a>.<br /> Thanks to <a href="https://x-govuk.github.io/govuk-eleventy-plugin/" class="govuk-link" >X-GOVUK projects</a> for the template' 
       },
       copyright: {
-        html: 'Responsibility &#9745; Pragmatism  &#9745; Public Service  &#9745; <br /> © Cross Government Cloud Community'
+        html: '© Cross Government Cloud Community'
       }
     }
    })
