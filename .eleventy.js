@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
     fontFamily: 'arial, sans-serif',
     header: {
       logotype: {
-        html: '<img id="xgov-logo" src="/../../../assets/logo/cloud_pink.svg" alt="Cross Government Cloud Community">',
+        html: '<img id="xgov-logo" src="../assets/logo/cloud_pink.svg" alt="Cross Government Cloud Community">',
       },
        productName: 'Cross Government Cloud Community',
     },
