@@ -5,7 +5,7 @@ order: 5
 title: Welcome
 description: We are a multidisciplinary group with a collective interest in cross-government cloud.
 image:
-  src: "../assets/logo/cloud_pink.svg"
+  src: "assets/logo/cloud_pink.svg"
   alt: "Cross Governemnt Cloud"   
 
 ---
