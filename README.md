@@ -37,8 +37,8 @@ To develop the website you will need the following.
    npm install
    ```
 3. to run the site locally 
-  ```
-     npx @11ty/eleventy --serve --port=8081
+   ```
+   npx @11ty/eleventy --serve --port=8081
    ```
 
 ### Installation (Docker)
