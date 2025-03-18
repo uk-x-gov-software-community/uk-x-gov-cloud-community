@@ -38,7 +38,7 @@ The three categories of uniquely interesting topics identified so far are:
 2. The cloud journeys of individual organisations that would not be readily available to other organisations
 3. Specific technical developments that might have a wider applicability but currently don't have that visibility
 
-Whilst we are in this early phease we are going to ask for a number of volunteers to form a planning and evaluation team, to help drive the content, evaluate the development of the community and shape its direction. If you want to be part of the planning and evalution group drop an email to the [GDS Cloud Strategy Team](mailto:cloud-strategy@digital.cabinet-office.gov.uk) and we'll reach out.
+Whilst we are in this early phase we are going to ask for a number of volunteers to form a planning and evaluation team, to help drive the content, evaluate the development of the community and shape its direction. If you want to be part of the planning and evaluation group drop an email to the [GDS Cloud Strategy Team](mailto:cloud-strategy@digital.cabinet-office.gov.uk) and we'll reach out.
 
 
 ### Logistics 
