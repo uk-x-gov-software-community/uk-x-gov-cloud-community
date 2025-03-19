@@ -4,6 +4,9 @@ layout: product
 order: 5
 title: Welcome
 description: We are a multidisciplinary group helping the UK public sector make the best use of cloud services.
+startButton:
+  href: "https://mailchi.mp/ca94df588bc8/uk-public-sector-cloud-community"
+  text: Join our Mailing list
 image:
   src: "assets/logo/cloud_pink.svg"
   alt: "Cross Governemnt Cloud"   
