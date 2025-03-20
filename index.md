@@ -6,7 +6,7 @@ title: Welcome
 description: We are a multidisciplinary group helping the UK public sector make the best use of cloud services.
 startButton:
   href: "https://mailchi.mp/ca94df588bc8/uk-public-sector-cloud-community"
-  text: Join our Mailing list
+  text: Join the Community
 image:
   src: "assets/logo/cloud_pink.svg"
   alt: "Cross Governemnt Cloud"   
@@ -56,7 +56,8 @@ There is no single instant messaging solution that works across the public secto
 In person meetings are an aspiration but there are not plans at this stage.
 
 ## Join us!
-* Chat with us in [`#cloud`](https://ukgovernmentdigital.slack.com/archives/C04FA6GL49J)
+* [`Join the Community`](https://mailchi.mp/ca94df588bc8/uk-public-sector-cloud-community)
+* And chat with us in Slack [`#cloud`](https://ukgovernmentdigital.slack.com/archives/C04FA6GL49J)
   
 
 
