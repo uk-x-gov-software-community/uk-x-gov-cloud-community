@@ -5,7 +5,7 @@ order: 5
 title: Welcome
 description: We are a multidisciplinary group helping the UK public sector make the best use of cloud services.
 startButton:
-  href: "https://mailchi.mp/ca94df588bc8/uk-public-sector-cloud-community"
+  href: "https://mailchi.mp/208dabecc5d3/0ra2l9gy3x"
   text: Join the Community
 image:
   src: "assets/logo/cloud_pink.svg"
