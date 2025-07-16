@@ -2,7 +2,7 @@
 
 # Cross Government Cloud Community
 
-[Link to website ](https://uk-x-gov-cloud-community.github.io/uk-x-gov-cloud-community/)
+[Link to website ](https://uk-x-gov-software-community.github.io/uk-x-gov-cloud-community/)
 
 This is the website of the Cross Government Cloud Community, aiming to be a place to find information about the group and other useful resources for all in government involved with cloud computing. 
 
