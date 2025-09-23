@@ -12,4 +12,4 @@ image:
 
 
 ## We have moved!
-If you are trying to reach the UK Public Sector Cloud Technology community, please reach out to <a href="mailto:cloud-strategy\@dsit.gov.uk">cloud-strategy\@dsit.gov.uk</a>.
+If you want to join the UK Public Sector Cloud Technology community, please use [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=BXCsy8EC60O0l-ZJLRst2EmqCmiO79JOjVo8qVwqQARUNUJPQ0NSTFdMMUs3SVlNV1ZOWkhOSlJLOS4u).
